@@ -1,0 +1,80 @@
+2025-06-17 22:35:43,742 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 22:35:43,742 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 22:35:43,743 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 22:35:43,743 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 22:35:45,901 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 22:35:45,901 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 22:35:45,925 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 22:35:45,925 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 22:35:45,926 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 22:35:45,926 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 22:35:47,884 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 22:35:47,884 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-17 22:35:47,885 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 22:35:47,885 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-17 22:35:48,382 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 22:35:48,382 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-17 22:35:48,408 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 22:35:48,408 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-17 22:35:48,409 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-17 22:35:48,409 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 00:05:33,464 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 00:05:33,464 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 00:05:33,471 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 00:05:33,471 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 00:05:35,329 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 00:05:35,329 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 00:05:35,363 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 00:05:35,363 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 00:05:35,363 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 00:05:35,363 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 00:05:37,698 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 00:05:37,698 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 00:05:37,698 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 00:05:37,698 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 00:05:38,145 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 00:05:38,145 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 00:05:38,164 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 00:05:38,164 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 00:05:38,165 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 00:05:38,165 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:17:03,494 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:17:03,494 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:17:03,497 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:17:03,497 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:17:05,611 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:17:05,611 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:17:05,634 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:17:05,634 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:17:05,636 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:17:05,636 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:17:07,806 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:17:07,806 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:17:07,808 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:17:07,808 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:17:08,284 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:17:08,284 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:17:08,308 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:17:08,308 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:17:08,309 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:17:08,309 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:20:33,546 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:20:33,546 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:20:33,551 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:20:33,551 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:20:35,774 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:20:35,774 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:20:35,826 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:20:35,826 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:20:35,827 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:20:35,827 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:20:38,340 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:20:38,340 - INFO - test_CredKart_Title_001  - 44 - Testcase test_CredKart_Title_001 is started
+2025-06-18 16:20:38,342 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:20:38,342 - INFO - test_CredKart_Title_001  - 45 - Opening browser and landing on login page--https://automation.credence.in/login
+2025-06-18 16:20:38,820 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:20:38,820 - INFO - test_CredKart_Title_001  - 54 - Checking title of login page
+2025-06-18 16:20:38,871 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:20:38,871 - INFO - test_CredKart_Title_001  - 64 - Landed on incorrect page and it's title is: CredKart
+2025-06-18 16:20:38,872 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
+2025-06-18 16:20:38,872 - INFO - test_CredKart_Title_001  - 65 - Taking screenshot
